@@ -1,0 +1,15 @@
+{
+  "name": "inject-github-pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inject-github-pr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-uuid": "^1.4.3",
+    "wreck": "^6.2.0"
+  }
+}
