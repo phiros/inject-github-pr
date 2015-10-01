@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "btoa": "^1.1.2",
     "node-uuid": "^1.4.3",
     "wreck": "^6.2.0"
   }
