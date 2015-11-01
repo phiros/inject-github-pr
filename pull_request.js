@@ -1,4 +1,4 @@
-{
+module.exports = {
   "action": "synchronize",
   "number": 4041,
   "pull_request": {
